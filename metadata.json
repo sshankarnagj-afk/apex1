@@ -1,0 +1,6 @@
+{
+  "name": "Smart Workshop Parts Assistant",
+  "description": "Agentic AI parts assistant that parses natural language requests, validates voltage, connector, and power requirements deterministically, inspects parts catalog, verifies stock, manages budget, and dispatches parts or refers to humans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
